@@ -1,0 +1,10 @@
+{
+  "tuition_fee": 120,
+  "p_t_a_dues": 10,
+  "toiletries": 30,
+  "stationary": 15,
+  "disposable_spoons": 10,
+  "examination_fees": 15,
+  "first_aid": 4,
+  "Basic": "PRIMARY"
+}

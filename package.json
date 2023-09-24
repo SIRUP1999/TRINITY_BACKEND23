@@ -1,0 +1,37 @@
+{
+  "name": "trinity-backend",
+  "version": "1.0.0",
+  "description": "this project is for trinity christian mission school",
+  "main": "server.js",
+  "scripts": {
+    "script": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1435.0",
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "date-fns": "^2.30.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-async-errors": "^3.1.1",
+    "express-fileupload": "^1.4.0",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.4.0",
+    "mongoose-sequence": "^5.3.1",
+    "node-schedule": "^2.1.1",
+    "react-calendar": "^4.6.0",
+    "shortid": "^2.2.16",
+    "socket.io": "^4.7.2",
+    "sqlite3": "^5.1.6",
+    "uuid": "^9.0.0",
+    "zlib": "^1.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

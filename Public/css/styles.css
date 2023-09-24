@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+body {
+  text-align: center;
+  font-size: 600;
+  text-transform: capitalize;
+  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 30px;
+  height: 100vh;
+
+  background: linear-gradient(#cd1515, rgba(29, 151, 151, 0.333));
+  /* background-image: url('../img/fifa_21-wallpaper-2560x1440.jpg'); */
+  color: #fff;
+  background-size: cover;
+}
+
+.trinity {
+  margin-top: 100px;
+}

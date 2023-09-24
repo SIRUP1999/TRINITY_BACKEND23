@@ -1,0 +1,86 @@
+[
+  {
+    "username": "Albert",
+    "password": "$2b$10$MDxXk6k42GNH2uq933redOqsfAKEpYSTXccP/qaG4pl0c73wmwzNq",
+    "roles": ["Admin"],
+    "active": true
+  },
+  {
+    "username": "Nana",
+    "password": "$2b$10$3QQEuNWT/P1CPsNnotehReq0nWqRoKWwB6tuWVSSxvq8YqwogZXRy",
+    "roles": ["Employee"],
+    "active": true
+  },
+  {
+    "username": "Asem",
+    "password": "$2b$10$C1YAt86iSheCfhP3OEDCeOZ9dzF2WSHTAi7ejr8eoNc0zxu.IQGqm",
+    "roles": ["Employee"],
+    "active": true
+  },
+  {
+    "username": "Adoma",
+    "password": "$2b$10$GofBjKRYmjzvhtTetjfd9uKezssM78QVzKk2ykdRWIjztS4GFIuMm",
+    "roles": ["Manager"],
+    "active": true
+  },
+  {
+    "username": "Alden",
+    "password": "$2b$10$lxAQAcK/7awGUXv2EiyDhuRrRtrbUpxX9ejQWHPfmn87cJ0eS1S3C",
+    "roles": ["Admin"],
+    "active": true
+  },
+  {
+    "username": "Amim",
+    "password": "$2b$10$DxNi26Xxl1IGL/gW7s66oOdUxbHz2bWLNOWIjJ.yoPla54eJMNoQC",
+    "roles": ["Manager"],
+    "active": true
+  },
+  {
+    "username": "Amina",
+    "password": "$2b$10$xDBBaZNGMnyMv9FUZe7bJ.KBRLrKMYto4yVNAeVxa5xowxD5hjrCe",
+    "roles": ["Manager"],
+    "active": true
+  },
+  {
+    "username": "Amint",
+    "password": "$2b$10$Ycb6KyTQ43tdMWhEIVZh1OkFGH3bngvhmCjo4EhDJWNSqvDlDRNau",
+    "roles": ["Manager"],
+    "active": true
+  },
+  {
+    "username": "Amintt",
+    "password": "$2b$10$LxB4zqukyt.8A3xZRTBseO4LYu1naTJ5972mhs4V3kcQAl6HQXWOi",
+    "roles": ["Manager"],
+    "active": true
+  },
+  {
+    "username": "Asem oo",
+    "password": "$2b$10$7kh4ckVmNCa6xZUfM4tES.e6vNPYvwlKlknz3pyuLxOklDz0TjsBS",
+    "roles": ["Manager"],
+    "active": true
+  },
+  {
+    "username": "Adoma emma",
+    "password": "$2b$10$EFSiGG62K2DOUF4ajLJM1eVOUZKxzOCTiTyfyXfC864JAp1fkpRLC",
+    "roles": ["Employee"],
+    "active": true
+  },
+  {
+    "username": "Amana",
+    "password": "$2b$10$1XOfbL7DylBQoDArwhp9PeFveKZdtAvIyor/mpnnIWuSq8BN018bG",
+    "roles": ["Employee"],
+    "active": true
+  },
+  {
+    "username": "Asana",
+    "password": "$2b$10$8pQYZxPqrJLLIloTEdNR/OSxxjv48sW.r4Ck4boAC.OciJnvopFeS",
+    "roles": ["Admin"],
+    "active": true
+  },
+  {
+    "username": "Abed",
+    "password": "$2b$10$HERPy66yglKGDaDzSxCWiuZQwoqSd/rqFOxgky/pdoCb4eeO/SxpO",
+    "roles": ["Manager"],
+    "active": true
+  }
+]
